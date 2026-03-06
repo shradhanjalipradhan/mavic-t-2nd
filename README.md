@@ -213,7 +213,7 @@ mavic-t-2nd/
 
 ## 📝 Technical Report
 
-Our technical report submitted to the PBVS 2026 workshop is available in [`mavict_paper_files.zip`]([mavict_paper_files.zip](https://github.com/shradhanjalipradhan/mavic-t-2nd/blob/main/LaTeXAuthor_Guidelines_for_Proceedings.zip)). It follows the CVPR 2026 author kit format and describes the complete approach, architecture, training details, and results.
+Our technical report submitted to the PBVS 2026 workshop is available in [`LaTeXAuthor_Guidelines_for_Proceedings.zip`](https://github.com/shradhanjalipradhan/mavic-t-2nd/blob/main/LaTeXAuthor_Guidelines_for_Proceedings.zip). It follows the CVPR 2026 author kit format and describes the complete approach, architecture, training details, and results.
 
 ---
 
