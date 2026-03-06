@@ -38,7 +38,7 @@ Our approach uses a **hybrid strategy**: a deep learning model (U-Net GAN) for t
 
 | Rank | Participant | Combined ↓ | SAR→EO | SAR→RGB | RGB→IR | SAR→IR |
 |:----:|:----------:|:----------:|:------:|:-------:|:------:|:------:|
-| 1 | sidharthpradhan | 0.56 | 0.52 | 0.68 | 0.42 | 0.64 |
+| 1 | StagAI | 0.56 | 0.52 | 0.68 | 0.42 | 0.64 |
 | **2** | **pshradha (ours)** | **0.51** | **0.51** | **0.56** | **0.42** | **0.55** |
 | 3 | shadowchaser2 | 0.42 | 0.33 | 0.60 | 0.21 | 0.53 |
 | 4 | bilisakura | 0.41 | 0.27 | 0.58 | 0.20 | 0.60 |
